@@ -19,6 +19,7 @@ If you have this error try to download and use [this file](https://github.com/No
 
 # Requirements
 You must download selenium(You can use pip) and https://chromedriver.chromium.org/downloads
+For Zayd Version: install fake-useragent using "pip install fake-useragent"
 
 # Usage
 1) Open Bot.py (or Bot_For_Bugged.py if you use it)
